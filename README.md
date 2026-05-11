@@ -21,11 +21,18 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/CoderHarsh003" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/CoderHarsh003" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/harsh-sharma-178832259/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://x.com/CoderHarsh003" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
 </p>
 
 ---
@@ -72,13 +79,6 @@ Real-time chat application with authentication and modern UI.
 Worked on analyzing modern Shopify stores and improving UI/UX structures.
 
 ---
-
-## 📊 Data Engineering Learning Projects
-
-Building ETL pipelines, automation scripts, and scalable backend systems.
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
@@ -103,14 +103,6 @@ Building ETL pipelines, automation scripts, and scalable backend systems.
 # 📊 Activity Graph
 
 [![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CoderHarsh003\&theme=tokyo-night)](https://github.com/CoderHarsh003)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CoderHarsh003/CoderHarsh003/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
