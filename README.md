@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harsh Sharma
 
-<h3 align="center">🚀 Python Developer | Backend Enthusiast | Future Data Engineer | Building in Public</h3>
+<h3 align="center">🚀 Python Developer | Backend Enthusiast | Future Data Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer;Backend+Developer;Learning+Data+Engineering;Building+Projects+Everyday;Open+to+Remote+Internships" alt="Typing SVG" />
